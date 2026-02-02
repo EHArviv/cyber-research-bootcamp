@@ -1,0 +1,5 @@
+2026-02-02 10:00:01 INFO starting app
+2026-02-02 10:00:02 WARN disk space low
+2026-02-02 10:00:03 ERROR failed to connect
+2026-02-02 10:00:04 INFO retrying
+2026-02-02 10:00:05 WARNING deprecated api

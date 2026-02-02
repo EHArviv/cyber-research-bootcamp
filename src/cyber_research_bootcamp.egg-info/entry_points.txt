@@ -1,0 +1,2 @@
+[console_scripts]
+crb = crb.cli:main
